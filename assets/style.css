@@ -3,3 +3,10 @@
     --card-front-color: #144480;
     --card-back-color: #00F4BF;
 }
+#container {
+    display: flex;
+     flex-wrap: wrap;
+     justify-content: space-between;
+     padding: 4rem;
+     gap: 3rem;
+}
