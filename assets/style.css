@@ -51,3 +51,7 @@ body {
     margin-top: 4rem;
 }
 
+.cartao__conteudo__pergunta p{
+    color: var(--text-color);
+    font-weight: 500;
+}
