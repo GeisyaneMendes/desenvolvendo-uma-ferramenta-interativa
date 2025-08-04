@@ -99,3 +99,9 @@ footer p{
 body {
     background: url('img/bg-desktop.webp'), no-repeat cover;
 }
+
+.cartao{
+    flex: 1 0 calc(100% - 1rem)
+}
+
+.
