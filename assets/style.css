@@ -96,6 +96,8 @@ footer p{
     margin-top: 0.5rem;
 }
 
+@media (max-whidth: 560px) {
+
 body {
     background: url('img/bg-desktop.webp'), no-repeat cover;
 }
@@ -111,4 +113,4 @@ body {
 .cartao_conteudo p {
     font-size: 3.8vw;
 }
-]
+}
