@@ -97,3 +97,8 @@ footer p{
 }
 
 @media (max-width: 560px) {
+
+body {
+    background: url('img/bg-desktop.webp');
+    font-family: Bai Jamjuree;
+}
