@@ -17,5 +17,6 @@ cartao.innerHTML = `
 let respostaEstaVisivel = false
 function viraCartao(){
     respostaestaVisivel = !respostaEstaVisivel
+    cartao.classList.toggle('active', respostaEstaVisivel)
 }
 container.appendChild(cartao)
