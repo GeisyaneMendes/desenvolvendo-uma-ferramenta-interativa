@@ -14,4 +14,5 @@ cartao.innerHTML = `
 </div>
 </div>
 `
+let respostaEstaVisivel = false
 container.appendChild(cartao)
