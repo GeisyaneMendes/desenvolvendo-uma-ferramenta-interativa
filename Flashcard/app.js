@@ -10,7 +10,7 @@ cartao.innerHTML = `
         <p>${pergunta}</p>
 </div>
 <div class="cartao__conteudo__resposta">
-        <p>O JavaScript é uma linguagem de programação</p>
+        <p>Repostas</p>
 </div>
 </div>
 `
